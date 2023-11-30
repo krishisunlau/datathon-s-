@@ -1,6 +1,6 @@
 library(readxl)
 
-
+#authors: Daniella Mangibin and Krishita Laungani
 
 #base code
 packages_to_install<-c("forecast","ggplot2","gridExtra","readr","kableExtra")
